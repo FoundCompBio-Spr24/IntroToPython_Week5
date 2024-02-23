@@ -118,6 +118,22 @@ Computing Skills for Biologists, Chapter 3 (Basic Programming), pgs. 81-119
     - `print("Favorite integer is %d, favorite float is %f, and favorite string is %s." % (faveInt,faveFloat,faveString))`
 - Note how the variables holding the values are provided in the same order inside parentheses after the `%`.
 
+## User Input
+
+- Python has a special function, `input("Message:" )`, to accept input from a user.
+- This function reads the user input and returns it. But be sure to store it in a variable!
+    - `userStr = input("Input some string: ")`
+- You can use the string methods outlined above to standardize user input - like stripping out excess whitespace, changing character case, etc.
+
+## Getting help from Python
+  
+- If you need help remembering what methods are available for a given object, use `dir(<OBJECT>)`
+- Note that methods starting and ending with "__" are not meant for users to call. They are methods to be used by the system.
+- Try creating a string variable (e.g., `myStr = "some text"`).
+    - Now run `dir(myStr)`
+    - Pick a method you haven't used before and see what it does with `myStr`.
+
+
 ## Additional Python Resources
 
 - [Python](https://www.python.org)
