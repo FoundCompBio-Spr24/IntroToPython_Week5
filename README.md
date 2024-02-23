@@ -122,3 +122,4 @@ Computing Skills for Biologists, Chapter 3 (Basic Programming), pgs. 81-119
 
 - [Python](https://www.python.org)
 - [Software Carpentry - Intro. to Python](http://swcarpentry.github.io/python-novice-inflammation/)
+- [Updated notes on Python string formatting](https://realpython.com/python-string-formatting/#2-new-style-string-formatting-strformat)
