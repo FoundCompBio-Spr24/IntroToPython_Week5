@@ -227,8 +227,10 @@ messages with answers to each question.
 
 - How long are the sequences?
 - Are the sequences the same length?
+- Convert the DNA sequences to equivalent RNA sequences (T -> U).
 - What are the frequencies of the four nucleotides in each sequence?
 - At how many positions do the sequences differ?
+- Generate the reverse complement of each sequence.
 ```
 
 ## Additional Python Resources
