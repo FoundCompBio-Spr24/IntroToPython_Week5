@@ -215,6 +215,22 @@ else:
     print("This is not a valid nucleotide!")
 ```
 
+```
+In-Class Practice Exercise (Characterizing Sequences)
+
+(1) Copy the sequences available in this repository.
+
+(2) Write a Python script with code to answer these questions.
+For each question, include comments describing how you're
+addressing the question and have the script print out informative
+messages with answers to each question.
+
+- How long are the sequences?
+- Are the sequences the same length?
+- What are the frequencies of the four nucleotides in each sequence?
+- At how many positions do the sequences differ?
+```
+
 ## Additional Python Resources
 
 - [Python](https://www.python.org)
