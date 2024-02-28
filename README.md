@@ -29,8 +29,8 @@ Computing Skills for Biologists, Chapter 3 (Basic Programming), pgs. 81-119
 
 - Now, put those same commands in a text file ending with a `.py` extension (e.g., `test.py`).
 - You can use this line at the top of the file to indicate that this is a Python script:
-      - `#! /bin/python3`
-      - To run this, add execute permissions to the file, then use `./test.py`
+    - `#! /bin/python3`
+    - To run this, add execute permissions to the file, then use `./test.py`
 - Alternatively, you can type `python3 test.py` without the header line.
 - What do you see?
 - The `.py` extension isn't required, but is conventional for Python code.
